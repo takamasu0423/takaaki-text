@@ -66,6 +66,6 @@ $product_details = $product->getProduct($_GET['id']);
             </div>
         </div>
     </main>
-    
+    <!-- Sample changes -->
 </body>
 </html>
